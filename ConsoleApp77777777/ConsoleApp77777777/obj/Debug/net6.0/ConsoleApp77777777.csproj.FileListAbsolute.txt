@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ConsoleApp77777777.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ConsoleApp77777777.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ConsoleApp77777777.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ConsoleApp77777777.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ConsoleApp77777777.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\bin\Debug\net6.0\ConsoleApp77777777.exe
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\bin\Debug\net6.0\ConsoleApp77777777.deps.json
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\bin\Debug\net6.0\ConsoleApp77777777.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\bin\Debug\net6.0\ConsoleApp77777777.dll
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\bin\Debug\net6.0\ConsoleApp77777777.pdb
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ConsoleApp77777777.dll
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\refint\ConsoleApp77777777.dll
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ConsoleApp77777777.pdb
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ConsoleApp77777777.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp77777777\ConsoleApp77777777\obj\Debug\net6.0\ref\ConsoleApp77777777.dll
